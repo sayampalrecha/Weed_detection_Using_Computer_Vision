@@ -4,7 +4,7 @@ import os
 
 from PIL import Image
 
-st.title('🌱 Weed Detection Using Computer Vision')
+st.title('Weed Detection Using Computer Vision 🌱')
 st.write('### This web app can detect whether a plant is a weed from the 6 given class')
 
 
